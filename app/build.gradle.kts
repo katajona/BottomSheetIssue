@@ -60,7 +60,6 @@ dependencies {
 
     implementation("androidx.compose.material:material")
     implementation("androidx.navigation:navigation-compose:2.7.6")
-    implementation("com.google.accompanist:accompanist-navigation-material:0.32.0")
 
     implementation(platform("io.insert-koin:koin-bom:3.5.3"))
     implementation("io.insert-koin:koin-android")
